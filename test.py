@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v9.11 is the latest.")
+prin("Wassup Buddy!! v9.11 is the latest.")
